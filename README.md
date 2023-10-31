@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mkunboxing
+- 👋 Hi, I’m @Mukul_Kumar
 - 👀 I’m interested in android apps web development and java
-- 🌱 I’m currently learning DSA and JAVA
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning DSA, JAVA, HTML, CSS and JavaScript
 - 📫 How to reach me mkunboxing@gmail.com
 
 <!---
