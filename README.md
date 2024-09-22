@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mukul</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkunboxing&label=Profile%20views&color=11e4c1&style=flat-square" alt="mkunboxing" /> </p>
+<a align="center" href="https://visitcount.itsvg.in" >
+  <img src="https://visitcount.itsvg.in/api?id=mkunboxing&label=Profile%20Views&color=2&icon=0&pretty=true" />
+</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkunboxing" alt="mkunboxing" /></a> </p>
 
