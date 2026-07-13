@@ -28,9 +28,9 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on **Quicky**
-- 🌱 Currently learning **MERN**, **Next.js**, **TypeScript**
+- 🌱 Currently working in **MERN**, **Next.js**, **TypeScript**, **Node.js** and have 2+ years of experience
 - 🏢 Working at **Techymonks**
-- 📍 Based in **Delhi, India**
+- 📍 Based in **India**
 - ⚡ Fun fact: I debug faster with coffee ☕
 
 ---
@@ -49,24 +49,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkunboxing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkunboxing&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkunboxing&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mkunboxing&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -81,14 +64,6 @@
 </div>
 
 ---
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mkunboxing/mkunboxing/output/github-contribution-grid-snake.svg" />
-
-</div>
 
 <!--
   To enable the snake animation:
